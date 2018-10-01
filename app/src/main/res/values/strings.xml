@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">iNirBye</string>
+    <string name="title_activity_map">iNirBye</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="place_name">Place Name</string>
+    <string name="address">Address</string>
+    <string name="up_down_frag">Up or down frag</string>
+    <string name="icon">icon</string>
+    <string name="current_location">current location</string>
+    <string name="settings">settings</string>
+    <string name="clear_list">clear list</string>
+    <string name="search">Search</string>
+    <string name="favorites">favorites</string>
+    <string name="info">info</string>
+    <string name="hours">Opening Hours:</string>
+    <string name="add_to_favorites">add to favorites</string>
+    <string name="back_to_search">back to search</string>
+    <string name="place_photo">Place Photo</string>
+    <string name="telephone">Telephone</string>
+    <string name="website">website</string>
+    <string name="call">call</string>
+    <string name="open_favorites">open favorites</string>
+    <string name="open_search">open search</string>
+    <string name="dist">Dist</string>
+    <string name="km">km</string>
+    <string name="opening_hours">opening hours:</string>
+    <string name="tel">tel:</string>
+    <string name="min">min</string>
+    <string name="max">max</string>
+    <string name="_0000">0000</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="Switch distance between KM/MI">
+
+    </PreferenceCategory>
+    <SwitchPreference
+        android:id="@+id/distanceSwitch"
+        android:defaultValue="false"
+        android:key="distance"
+        android:summary="Switch Between KM / MI"
+        android:summaryOff="Distance Showed in Miles"
+        android:summaryOn="Distance Showed in KM"
+        android:switchTextOff="MI"
+        android:switchTextOn="KM"
+        android:title="sett" />
+</PreferenceScreen>
